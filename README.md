@@ -21,7 +21,7 @@
 ## Usage
 
 ```powershell
-.\FolderSizeAnalyzer.ps1 [-p <Path>] [-f <Number>] [-o <OutputPath>] [-d <MaxDepth>] [--include-system-folders] [-help] [--help]
+.\FolderSizeAnalyzer.ps1 [-p <Path>] [-f <Number>] [-o <OutputPath>] [-d <MaxDepth>] [--include-system-folders] [--help]
 ```
 
 ## Parameters
